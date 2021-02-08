@@ -7,3 +7,7 @@ FITUR PRODUK
 - Real-time Analysis terhadap data-data dari hasil proses video processing dalam bentuk visualisasi, analisis, dan predictive model yang memprediksi jumah pengunjung berdasarkan data-data sebelumnya dan data-data penunjang berupa temperatur dan kelembaban daerah tersebut.
 - Real-time IOT Dashboard yang menampilkan seluruh informasi baik raw data maupun processed and visualized data kedalam dashboard dengan UI dan UX yang mumpuni.
 - Auto-logging system dengan integrasi sistem dengan google sheet API yang mampu melakukan data-logging secara otomatis ke google sheet pengguna untuk keperluan arsip data dalam format CSV.
+## dokum 
+![1001083](https://user-images.githubusercontent.com/47879766/107242005-1bc07580-6a5e-11eb-92bf-8b5ae089591d.jpg)
+![1001085](https://user-images.githubusercontent.com/47879766/107242011-1cf1a280-6a5e-11eb-93d2-9116e31b2d79.jpg)
+![1001084](https://user-images.githubusercontent.com/47879766/107242013-1cf1a280-6a5e-11eb-811c-57b3b2198a9c.jpg)
