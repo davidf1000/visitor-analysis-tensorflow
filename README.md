@@ -1,4 +1,7 @@
 ## OCULUS‌ ‌:‌ ‌IOT-BASED‌ ‌CROWD‌ ‌BEHAVIOUR‌ ‌MONITORING‌ ‌AND‌ ‌ANALYSIS‌ ‌SYSTEM‌ ‌USING‌ ‌COMPUTER‌ ‌VISION‌ ‌AND‌ ‌DEEP‌ ‌LEARNING‌ 
+
+Dokumentasi Promotional Video : https://www.youtube.com/watch?v=0m-182EgoJs
+
 FITUR PRODUK
 
 - Real-time Video processing menggunakan OPENCV dan TensorFlow Lite dengan modul objek deteksi dan object tracking terbaru dan terefisien sehingga memungkinan pemrosesan video secara real time pada Single Board Computer berupa raspberry pi 4.
